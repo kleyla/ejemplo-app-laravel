@@ -1,4 +1,4 @@
-# BUENAS PRACTICAS EN LARAVEL
+# BUENAS PRACTICAS
 
 ## Estandar de nomenclatura
 
@@ -78,3 +78,8 @@ Crear la migracion con su modelo
 ```
 php artisan make:migration CreateNombreTable -m
 ```
+
+### Ejemplo "Todo" algunas sugerencias
+
+-   Uso de try catch
+-   Uso de Database Transactions
